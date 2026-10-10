@@ -127,6 +127,9 @@ Incluye gráficos de:
   - Reducir standby
   - Desplazar usos intensivos a horarios no pico
 
+## 🔗 Dashboard en vivo
+[https://consumo-energetico-hogar.streamlit.app/](https://consumo-energetico-hogar.streamlit.app/)
+
 ---
 
 # 🛠 **Instalación**
