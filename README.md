@@ -137,7 +137,7 @@ Incluye gráficos de:
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/household-energy-analysis.git
+git clone https://github.com/A2-digital/household-energy-analysis.git
 cd household-energy-analysis
 ```
 
@@ -154,8 +154,13 @@ venv\Scripts\activate  # Windows
 ```bash
 pip install -r requirements.txt
 ```
+## 4. Ejecutar el dashboard
 
-## 4. Ejecutar el notebook
+```bash
+streamlit run app.py
+```
+
+## 5. Ejecutar el notebook
 
 Abrir `notebook/HouseHold_Power_Consumption.ipynb` en Jupyter Notebook o JupyterLab.
 
